@@ -5,7 +5,7 @@ Personaje personaje = new Personaje();
 
 personaje.Nombre = "Mateo";
 personaje.EstiloCombate = "Taekwondo";
-personaje.Nivel = 1;
+personaje.Nivel = -1;
 personaje.DanioAcumulado = 0;
 personaje.Monedas = 100;
 
